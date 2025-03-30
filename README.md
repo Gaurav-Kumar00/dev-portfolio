@@ -27,7 +27,7 @@ A responsive portfolio website showcasing my skills, projects, and professional 
 - Media Queries for responsive design
 
 ## 🔍 Demo
-Check out the live demo: [(https://gaurav-kumar00.github.io/dev-portfolio/)]
+Check out the live demo: [Demo](https://gaurav-kumar00.github.io/dev-portfolio/)
 
 ## 💻 Installation
 
@@ -112,10 +112,10 @@ You can also deploy your portfolio on:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-- Your Name - [GauravKumar](mailto:your.email@example.com)
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- [Gmail](mailto:gk94129@gmail.com)
+- [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/gaurav-kumar-9b5689250/))
+- [GitHub]([https://github.com/yourusername](https://github.com/Gaurav-Kumar00))
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [Gaurav-Kumar00]
