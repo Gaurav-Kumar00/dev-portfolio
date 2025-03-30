@@ -1,8 +1,6 @@
 # dev-portfolio
 A responsive portfolio website showcasing my skills, projects, and professional experience built with HTML, CSS, and JavaScript.
 
-![Portfolio Screenshot](https://github.com/yourusername/portfolio/raw/main/assets/profile-pic.jpg)
-
 ## 📋 Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
