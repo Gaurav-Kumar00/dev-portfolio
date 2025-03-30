@@ -113,9 +113,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 - [Gmail](mailto:gk94129@gmail.com)
-- [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/gaurav-kumar-9b5689250/))
-- [GitHub]([https://github.com/yourusername](https://github.com/Gaurav-Kumar00))
+- [LinkedIn](https://www.linkedin.com/in/gaurav-kumar-9b5689250/)
+- [GitHub](https://github.com/Gaurav-Kumar00)
 
 ---
 
-⭐️ From [Gaurav-Kumar00]
+⭐️ From Gaurav-Kumar00
