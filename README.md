@@ -56,3 +56,24 @@ git clone https://github.com/Gaurav-Kumar00/dev-portfolio.git
 cd dev-portfolio
 open index.html
 ```
+
+## How to Customize
+
+1. **Personal Information**: Update the personal details in `index.html` and `index.js`.
+2. **Experience & Projects**: Modify the content sections in the respective components.
+3. **Styling**: Customize colors and layout in `styles.css`.
+4. **Responsive Design**: Adjust breakpoints in `mediaqueries.css` if needed.
+5. **Assets**: Replace images in the `assets` folder with your own.
+
+## Connect With Me
+
+-   LinkedIn: [linkedin.com/in/gauravkumar](https://linkedin.com/in/gauravkumar)
+-   GitHub: [github.com/Gaurav-Kumar00](https://github.com/Gaurav-Kumar00)
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+Created with ❤️ by Gaurav Kumar
