@@ -51,11 +51,16 @@ DEV_PORTFOLIO/
 
 To run this project locally:
 
-```bash
-git clone https://github.com/Gaurav-Kumar00/dev-portfolio.git
-cd dev-portfolio
-open index.html
-```
+1. Clone the repository:
+
+    ```
+    git clone https://github.com/yourusername/dev-portfolio.git
+    cd dev-portfolio
+    ```
+
+2. Open the project:
+    - You can simply open the `index.html` file in your browser to view the portfolio locally.
+    - Alternatively, you can use a local development server like Live Server in VS Code.
 
 ## How to Customize
 
