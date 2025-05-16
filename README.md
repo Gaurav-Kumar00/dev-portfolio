@@ -67,7 +67,7 @@ open index.html
 
 ## Connect With Me
 
--   LinkedIn: [linkedin.com/in/gauravkumar](https://linkedin.com/in/gauravkumar)
+-   LinkedIn: [linkedin.com/in/gauravkumar](https://www.linkedin.com/in/gaurav-kumar-9b5689250/)
 -   GitHub: [github.com/Gaurav-Kumar00](https://github.com/Gaurav-Kumar00)
 
 ## License
