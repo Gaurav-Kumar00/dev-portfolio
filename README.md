@@ -6,7 +6,7 @@ Welcome to my personal developer portfolio website. Built with HTML, CSS, and Ja
 
 ## 📁 Project Structure
 
-```
+```     
 DEV_PORTFOLIO/
 ├── .git/                  # Git repository folder
 ├── assets/                # Images and other static assets
